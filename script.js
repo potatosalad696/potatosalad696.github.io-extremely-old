@@ -1,1 +1,1 @@
-// Just an empty JavaScript code
+document.getElementById("secret").style.display = none;
