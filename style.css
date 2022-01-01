@@ -22,3 +22,6 @@ html {
     font-family: sans-serif;
     color: blue;
 }
+.secret {
+    display: none;
+}

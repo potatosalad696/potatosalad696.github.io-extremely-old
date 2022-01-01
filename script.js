@@ -1,1 +1,1 @@
-document.getElementById("secret").style.display = none;
+// Empty again
