@@ -1,1 +1,4 @@
-// Why my JavaScript not working!?
+function testing()
+{
+    document.getElementById("res").innerHTML = "it works!"
+}
