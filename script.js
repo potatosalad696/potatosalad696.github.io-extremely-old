@@ -1,4 +1,4 @@
 function testing()
 {
-    document.getElementById("res").innerHTML = "it works!"
+    document.getElementById("res").innerHTML = "it works!";
 }
