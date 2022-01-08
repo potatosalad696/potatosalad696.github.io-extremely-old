@@ -1,4 +1,1 @@
-function wow()
-{
-    alert("Thank you for using this website!");
-}
+document.getElementById("shhhh").style.display = "none";
