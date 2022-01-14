@@ -1,1 +1,1 @@
-document.getElementById("shhhh").style.display = "none";
+// haha it's empty lol
