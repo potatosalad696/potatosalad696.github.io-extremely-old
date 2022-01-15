@@ -1,10 +1,11 @@
+html {
+    background-color: skyblue;
+}
 .header {
     font-family: sans-serif;
-    color: black;
+    text-align: center;
 }
 .content1 {
     font-family: sans-serif;
-}
-html {
-    background-color: lightblue;
+    text-align: center;
 }
