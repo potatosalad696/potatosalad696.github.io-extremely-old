@@ -2,22 +2,22 @@ html {
     background-color: skyblue;
 }
 .header {
-    margin: left;
+    text-align: center;
     font-family: sans-serif;
 }
 .content1 {
-    margin: left;
+    text-align: center;
     font-family: sans-serif;
 }
 .content2 {
-    margin: left;
+    text-align: center;
     font-family: sans-serif;
 }
 .version {
-    margin: left;
+    text-align: center;
     font-family: sans-serif;
 }
 .thankyou {
-    margin: left;
+    text-align: center;
     font-family: sans-serif;
 }
