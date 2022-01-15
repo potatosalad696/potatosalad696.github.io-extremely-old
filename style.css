@@ -1,18 +1,23 @@
 html {
-    background-color: lightblue;
+    background-color: skyblue;
 }
 .header {
+    margin: left;
     font-family: sans-serif;
 }
 .content1 {
+    margin: left;
     font-family: sans-serif;
 }
 .content2 {
+    margin: left;
     font-family: sans-serif;
 }
 .version {
+    margin: left;
     font-family: sans-serif;
 }
 .thankyou {
+    margin: left;
     font-family: sans-serif;
 }
