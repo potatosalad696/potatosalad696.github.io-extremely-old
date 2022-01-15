@@ -5,6 +5,9 @@ html {
     text-align: center;
     font-family: sans-serif;
 }
+.img1 {
+    border-radius: 50%;
+}
 .content1 {
     text-align: center;
     font-family: sans-serif;
