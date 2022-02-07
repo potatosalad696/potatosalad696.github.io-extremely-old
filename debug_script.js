@@ -1,5 +1,5 @@
 function GenerateCode() {
-    return "xyxyx-yxyxy-xyxyx-yxyxy-xyxyx-xxxxx-yyyyy".replace(/[xy]/g, function (c) {
+    return "xxxx-yyyy-xxxx-yyyy".replace(/[xy]/g, function (c) {
         const r = Math.random() * 64 | 0;
         const v = c === 'x' ? r : (r & 0x2 | 0x4);
 
