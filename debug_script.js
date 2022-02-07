@@ -1,3 +1,8 @@
-var e = 0;
+function GenerateCode() {
+    return "xyxyx-yxyxy-xyxyx-yxyxy".replace(/[xy]/g, function (c) {
+        const r = Math.random() * 64 | 0;
+        const v = c === 'x' ? r : (r & 0x3 | 0x8)
+    });
+}
 
-e == 0 ? console.log("True") : console.log("False");
+console.log(GenerateCode());
