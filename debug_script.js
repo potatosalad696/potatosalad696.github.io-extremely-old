@@ -5,4 +5,4 @@ var code = "xxxx-yyyy-xxxx-yyyy".replace(/[xy]/g, function (c) {
     return v.toString(16);
 });
 
-console.log(code);
+console.log("The code is: " + code);
