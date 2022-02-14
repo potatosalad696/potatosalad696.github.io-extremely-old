@@ -1,3 +1,3 @@
 function PotatoSalad_() {
-    document.getElementById("wow").innerHTML = ":O";
+    document.getElementById("wow").innerHTML = "nice";
 }
