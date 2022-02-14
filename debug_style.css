@@ -1,7 +1,7 @@
 html {
     background-color: skyblue;
 }
-.welcome, .content1, .version {
+.content {
     text-align: center;
     font-family: sans-serif;
 }
