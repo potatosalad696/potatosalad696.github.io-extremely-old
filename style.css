@@ -1,7 +1,7 @@
 html {
     background-color: skyblue;
 }
-.header {
+.header, .content1, .content2, .version, .thankyou {
     text-align: center;
     font-family: sans-serif;
 }
@@ -11,20 +11,4 @@ html {
 .img1 {
     width: fit-content;
     margin: auto;
-}
-.content1 {
-    text-align: center;
-    font-family: sans-serif;
-}
-.content2 {
-    text-align: center;
-    font-family: sans-serif;
-}
-.version {
-    text-align: center;
-    font-family: sans-serif;
-}
-.thankyou {
-    text-align: center;
-    font-family: sans-serif;
 }
