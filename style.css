@@ -16,6 +16,5 @@ html {
     margin: auto;
 }
 a:hover {
-    background-color: black;
-    color: white;
+    background-color: yellow;
 }

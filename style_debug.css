@@ -9,6 +9,5 @@ html {
     font-family: sans-serif;
 }
 a:hover {
-    background-color: black;
-    color: white;
+    background-color: yellow;
 }
