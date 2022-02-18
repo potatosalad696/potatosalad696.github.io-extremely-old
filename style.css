@@ -16,5 +16,6 @@ html {
     margin: auto;
 }
 a:hover {
-    color: #222288;
+    background-color: black;
+    color: white;
 }
