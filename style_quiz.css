@@ -8,3 +8,6 @@ html {
     font-family: sans-serif;
     text-align: center;
 }
+a:hover {
+    color: #222288;
+}

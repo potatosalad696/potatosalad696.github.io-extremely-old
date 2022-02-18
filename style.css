@@ -15,3 +15,6 @@ html {
     width: fit-content;
     margin: auto;
 }
+a:hover {
+    color: #222288;
+}
