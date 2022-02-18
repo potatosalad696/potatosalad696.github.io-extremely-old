@@ -1,5 +1,8 @@
+:root {
+    --potatoweb-background-debug: lightblue; 
+}
 html {
-    background-color: lightblue;
+    background-color: var(--potatoweb-background-debug);
 }
 .content {
     text-align: center;

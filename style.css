@@ -1,5 +1,8 @@
+:root {
+    --potatoweb-background-default: skyblue;
+}
 html {
-    background-color: skyblue;
+    background-color: var(--potatoweb-background-default);
 }
 .content1, .content2 {
     text-align: center;
