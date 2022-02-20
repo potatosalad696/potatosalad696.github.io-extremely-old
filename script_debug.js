@@ -2,7 +2,7 @@ function timeouted1() {
     console.log("TimeoutError: Timeout")
 }
 
-var code = "xxxx-yyyy-xxxx-yyyy".replace(/[xy]/g, function (c) {
+var token = "xxxx-yyyy-xxxx-yyyy".replace(/[xy]/g, function (c) {
     const r = Math.random() * 16 | 0;
     const v = c === 'x' ? r : (r & 0x3 | 0x8);
 
@@ -11,4 +11,4 @@ var code = "xxxx-yyyy-xxxx-yyyy".replace(/[xy]/g, function (c) {
 
 const timeout1 = setTimeout(timeouted1, 25000)
 
-console.log("The code is: " + code);
+console.log("Your token is: " + code);
