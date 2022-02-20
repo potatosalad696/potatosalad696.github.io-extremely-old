@@ -9,11 +9,13 @@ var code = "yxyxxyxxxyxxxxyxxxxxyxxxx".replace(/[xy]/g, function (c) {
     return v.toString(16);
 });
 
-const timeout1 = setTimeout(timeouted1, 25000)
-var input_code = document.getElementById("input").value
+function check() {
+    const timeout1 = setTimeout(timeouted1, 25000)
+    var input_code = document.getElementById("input").value
 
-if (input_code == code) {
-    console.log("Correct!")
+    if (input_code == code) {
+        console.log("Correct!")
+    }
 }
 
 console.log("Your code is: " + code);
