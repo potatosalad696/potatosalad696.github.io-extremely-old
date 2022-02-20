@@ -11,4 +11,4 @@ var token = "xyxyx-yxyxy-xyxyx-yxyxy-xyxyx".replace(/[xy]/g, function (c) {
 
 const timeout1 = setTimeout(timeouted1, 25000)
 
-console.log("Your token is: " + code);
+console.log("Your token is: " + token);
