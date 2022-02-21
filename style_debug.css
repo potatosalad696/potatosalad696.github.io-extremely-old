@@ -1,5 +1,6 @@
 :root {
-    --potatoweb-background-debug: lightblue; 
+    --potatoweb-background-debug: lightblue;
+    --potatoweb-hover: yellow; 
 }
 html {
     background-color: var(--potatoweb-background-debug);
@@ -9,5 +10,5 @@ html {
     font-family: sans-serif;
 }
 a:hover {
-    background-color: yellow;
+    background-color: var(--potatoweb-hover);
 }

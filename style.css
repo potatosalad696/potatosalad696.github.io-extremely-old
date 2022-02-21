@@ -1,5 +1,6 @@
 :root {
     --potatoweb-background-default: skyblue;
+    --potatoweb-hover: yellow;
 }
 html {
     background-color: var(--potatoweb-background-default);
@@ -16,5 +17,5 @@ html {
     margin: auto;
 }
 a:hover {
-    background-color: yellow;
+    background-color: var(--potatoweb-hover);
 }
