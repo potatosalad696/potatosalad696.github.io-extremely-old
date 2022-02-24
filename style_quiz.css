@@ -1,14 +1,16 @@
 :root {
     --potatoweb-background-default: skyblue;
-    --potatoweb-hover: yellow;
+    --potatoweb-hover-default: yellow;
+    --potatoweb-align-default: center;
+    --potatoweb-font-default: sans-serif;
 }
 html {
     background-color: var(--potatoweb-background-default);
 }
 .header, .content1 {
-    font-family: sans-serif;
     text-align: center;
+    font-family: var(--potatoweb-font-default);
 }
 a:hover {
-    background-color: var(--potatoweb-hover);
+    background-color: var(--potatoweb-hover-default);
 }

@@ -1,13 +1,15 @@
 :root {
     --potatoweb-background-default: skyblue;
-    --potatoweb-hover: yellow;
+    --potatoweb-hover-default: yellow;
+    --potatoweb-align-default: center;
+    --potatoweb-font-default: sans-serif;
 }
 html {
     background-color: var(--potatoweb-background-default);
 }
 .content1, .content2 {
-    text-align: center;
-    font-family: sans-serif;
+    text-align: var(--potatoweb-align-default);
+    font-family: var(--potatoweb-font-default);
 }
 .img1 img {
     border-radius: 50%;
@@ -17,5 +19,5 @@ html {
     margin: auto;
 }
 a:hover {
-    background-color: var(--potatoweb-hover);
+    background-color: var(--potatoweb-hover-default);
 }
