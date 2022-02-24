@@ -6,7 +6,11 @@ Hello and Welcome to PotatoWeb!
 
 ## Info
 Link: [Web](https://potatosalad696.github.io)
-Owner: potatosalad696
-[x] The web is public
 
-> :potato: :salad:
+Page:
+
+- Main
+- Quiz
+<!-- Debug -->
+
+Owner: potatosalad696
