@@ -1,10 +1,12 @@
-# README
-This is PotatoWeb, made by PotatoSalad_ (potatosalad696)
+# Read Me
+Read Me
 
-Discord: https://discord.gg/XQcRgtWsbD, https://discord.gg/Y3Mtu8GHeF
+## Hello
+Hello and Welcome to PotatoWeb!
 
-Youtube: https://www.youtube.com/channel/UC9S-tJ_XUXZKXDAXGsQ6VKQ, https://www.youtube.com/channel/UCXh9_7S7w0E1fwhq3cdRVCw
+## Info
+Link: [Web](https://potatosalad696.github.io)
+Owner: potatosalad696
+[x] The web is public
 
-TikTok: https://www.tiktok.com/@potatosalad170
-
-© PotatoSalad_
+> :potato: :salad:
