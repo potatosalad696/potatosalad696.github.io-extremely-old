@@ -1,15 +1,13 @@
 :root {
     --potatoweb-background-debug: lightblue;
     --potatoweb-hover-debug: yellow;
-    --potatoweb-align-debug: center;
-    --potatoweb-font-debug: sans-serif;
 }
 html {
     background-color: var(--potatoweb-background-debug);
 }
 .content {
-    text-align: var(--potatoweb-align-debug);
-    font-family: var(--potatoweb-font-debug);
+    text-align: center;
+    font-family: sans-serif;
 }
 a:hover {
     background-color: var(--potatoweb-hover-debug);
